@@ -5,5 +5,6 @@ public class Hello {
 		System.out.println("That's DVCS");
 		System.out.println("Linux kernel used Bitkeeper DVCS");
 		System.out.println("Ang Gimoggi");
+		System.out.println("Welcome to bitcamp");
 	}	
 }	
